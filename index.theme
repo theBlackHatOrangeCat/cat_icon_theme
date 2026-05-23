@@ -1,0 +1,16 @@
+[Icon Theme]
+Name=Cat Icon Theme
+Comment=Purrfect fluffballs have taken over the desktop
+Inherits=breeze-dark,Adwaita,hicolor
+
+Example=directory-x-normal
+
+#Directory list
+Directories=scalable/apps
+
+[scalable/apps]
+Size=48
+MinSize=8
+MaxSize=512
+Context=Applications
+Type=Scalable
